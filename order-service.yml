@@ -1,5 +1,5 @@
 server:
-  port: 8081
+  port: 8090
 
 app:
   message: "Welcome to Order Service! Configuration loaded from Config Server."
